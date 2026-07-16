@@ -45,9 +45,7 @@ maintaining the composure between internal, external and public stakeholders.
 <div align="center">
   <img src="assets/stakeholder map.png" alt="stakeholder_map" width="700"/>
 </div>
-<div align="center">
-  <a href="https://miro.com/app/board/uXjVICzGkoU=/" target="_blank">Open Miro Board</a>
-</div>
+
 
 ### Persona
 The persona profile presents Emily Schmitt, a 68-year-old retired logistics coordinator, who lives independently and is managing multiple age-related health conditions. She faces issues such as heart disease, low iron, weak muscles, and occasional joint pain, which make regular mobility and access to public transportation more difficult. Her situation is further complicated by the distance to nearby bus stops and her need for consistent medical checkups.
@@ -100,9 +98,7 @@ effectively visualizes both user interactions and automated system responses.
 <div align="center">
   <img src="assets/feature_m6.png" alt="feature_m6" width="700"/>
 </div>
-<div align="center">
-  <a href="https://miro.com/app/board/uXjVI9mh4O0=/?moveToWidget=3458764648878838617&cot=14" target="_blank">Open Miro Board</a>
-</div>
+
 
 ### Customer Journey Map
 
@@ -156,9 +152,6 @@ Outside the main architecture, we offer mobile application and telephonic call f
 
 <div align="center">
   <img src="assets/architecture_m6.png" alt="architecture_m6" width="1500"/>
-</div>
-<div align="center">
-  <a href="https://miro.com/app/board/uXjVI4L1EZQ=/?moveToWidget=3458764655288213561&cot=14" target="_blank">Open Block Diagram in Miro</a>
 </div>
 
 ### State Diagram
@@ -226,10 +219,7 @@ throughout the project:
 
  This approach allowed us to focus on delivering the most impactful and foundational work early in the development cycle, while maintaining a steady and efficient workflow throughout the project.
 
-  <div align="center">
-  <a href="https://hscoburgde-my.sharepoint.com/:x:/g/personal/sur7933s_hs-coburg_de/IQA5donCqZ_-S5FD__qX3kfCAbQfcGZGxHREQ--6_sPcJAQ?e=FkZRgO" target="_blank">Open Prioritization and Estimation Sheet</a>
-</div>
-
+  
 ### Tools
 | Tool                         | Purpose                                                    |
 |------------------------------|---------------------------------------------------------------------------------|
