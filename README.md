@@ -128,7 +128,7 @@ The Minimum Viable Product (MVP) offers the following features:
 1. User can book and cancel a shuttle via the smartwatch and interact with the internal user interface for health monitoring and calling a doctor.
 2. Secure User Authorization for shuttle access.
 3. User can take the shuttle when external positioning system (OptiTrack) is temporarily  unavailable.
-4. [User can experience a seamless and smooth driving journey between requested locations.](https://git.hs-coburg.de/pax_auto/pax_auto_main/src/branch/main/test/scenario_based_testing/feature_4)
+4. User can experience a seamless and smooth driving journey between requested locations.]
 5. User can stay safe with reaction traffic light and collision detection while traveling on our shuttle.
 6. User can track the estimated time of arrival (ETA) in real time via the internal user interface.
 
