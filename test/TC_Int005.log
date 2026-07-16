@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/hs-coburg.de/sah3637s/pax/src/lat_lon_control
+plugins: ament-lint-0.12.14, ament-flake8-0.12.14, launch-testing-1.0.11, launch-testing-ros-0.19.12, ament-copyright-0.12.14, ament-xmllint-0.12.14, ament-pep257-0.12.14, anyio-4.11.0, mock-3.6.1, cov-3.0.0, colcon-core-0.20.1
+collecting ... collected 1 item
+
+TC_Int005.py::test_TC_Int005 PASSED                      [100%]
+
+========================= 1 passed in 60.59s (0:01:00) =========================

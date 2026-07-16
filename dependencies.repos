@@ -1,0 +1,80 @@
+repositories:
+  # ========================
+  # Pax Auto repositories
+  # ========================
+  lane_detection:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/lane_detection.git
+    version: main
+  localization:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/localization.git
+    version: main
+  path_planning:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/path_planning.git
+    version: main
+  lateral_and_longitudinal_control:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/lateral_and_longitudnal_control.git
+    version: main
+  user_authorization:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/user_authorization.git
+    version: main
+  custom_msgs:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/custom_msgs.git
+    version: main
+  obstacle_detection:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/obstacle_detection.git
+    version: main
+  v2x_transmitter:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/v2x_transmitter.git
+    version: main
+  traffic_light_monitor:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/traffic_light_monitor.git
+    version: main
+  server:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/server.git
+    version: main
+  decision_core:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/decision_core.git
+    version: main
+  decoder:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/decoder.git
+    version: main
+  environment_model:
+    type: git
+    url: https://git.hs-coburg.de/pax_auto/environment_model.git
+    version: main
+ 
+  # ========================
+  # External repositories
+  # ========================  
+  mocap4r2_msgs:
+    type: git
+    url: https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs.git
+    version: humble-devel
+  ackermann_msgs:
+    type: git
+    url: https://github.com/ros-drivers/ackermann_msgs.git
+    version: ros2
+  etsi_its_msgs:
+    type: git
+    url: https://github.com/ika-rwth-aachen/etsi_its_messages.git
+    version: main
+  ad_infrastructure_services:
+    type: git
+    url: https://git.hs-coburg.de/Autonomous_Driving/ad_infrastructure_services.git
+    version: master
+  vision_msgs:
+    type: git
+    url: https://github.com/ros-perception/vision_msgs.git
+    version: humble

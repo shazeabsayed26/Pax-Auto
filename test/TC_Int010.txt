@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-9.0.0, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/mahitha/eta_ws/src/eta_component
+plugins: ament-pep257-0.12.12, ament-copyright-0.12.12, 
+         launch-testing-1.0.8, launch-testing-ros-0.19.9, 
+         ament-flake8-0.12.12, ament-lint-0.12.12, 
+         ament-xmllint-0.12.12, colcon-core-0.19.0, cov-3.0.0
+collecting ... collected 1 item
+
+TC_Int_ETA_001.py::TestETABasic::test_eta_is_published PASSED [100%]
+
+============================== 1 passed in 14.37s ==============================

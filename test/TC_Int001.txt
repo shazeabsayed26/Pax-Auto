@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/hs-coburg.de/sur7933s/Documents/integration_testing
+plugins: ament-pep257-0.12.14, launch-testing-ros-0.19.13, ament-lint-0.12.14, ament-xmllint-0.12.14, ament-copyright-0.12.14, ament-flake8-0.12.14, launch-testing-1.0.13, anyio-4.11.0, cov-3.0.0, colcon-core-0.20.1
+collecting ... collected 1 item
+
+test_TC_Int001.py::test_TC_Int001 Expected Result 1a: PASSED
+Expected Result 1b: PASSED
+Expected Result 1c: PASSED
+Expected Result 1d: PASSED
+PASSED            				 
+
+============================== 1 passed in 1.66s ===============================
